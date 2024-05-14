@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyFlagChallenge</string>
+    <string name="txtTimer">00:10</string>
+    <string name="txt_flag_challenge_title">FLAG CHALLENGE</string>
+    <string name="btn_save">Save</string>
+    <string name="txt_schedule">SCHEDULE</string>
+    <string name="txt_hour">hour</string>
+    <string name="txt_min">min</string>
+    <string name="txt_sec">sec</string>
+    <string name="txt_challenge">CHALLENGE</string>
+    <string name="txt_will_start_in">WILL START IN</string>
+    <string name="txt_timer_count">00.10</string>
+    <string name="guss_the_country_from_the_flag">guss the country from the flag</string>
+    <string name="game_over">GAME OVER</string>
+</resources>
